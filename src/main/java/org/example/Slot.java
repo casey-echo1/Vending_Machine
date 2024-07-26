@@ -7,6 +7,9 @@ public class Slot <T extends Product> {
 	public Slot() {	}
 
 	public Slot(T product, int quantity) {
+		if(product == null || quantity < 0) {
+			throw new IllegalArgumentException("Product must be valid and quantity must be positive");
+		}
 		this.product = product;
 		this.quantity = quantity;
 	}
@@ -16,6 +19,9 @@ public class Slot <T extends Product> {
 	}
 
 	public void setProduct(T product) {
+		if(product == null || quantity < 0) {
+			throw new IllegalArgumentException("Product must be valid and quantity must be positive");
+		}
 		this.product = product;
 	}
 

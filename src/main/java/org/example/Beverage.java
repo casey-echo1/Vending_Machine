@@ -5,6 +5,9 @@ public class Beverage extends Product {
 
 	public Beverage(String name, double price, double flOunces) {
 		super(name, price);
+		if (flOunces < 0) {
+			throw new IllegalArgumentException("flOunces must be a positive number");
+		}
 		this.flOunces = flOunces;
 	}
 
@@ -13,6 +16,9 @@ public class Beverage extends Product {
 	}
 
 	public void setFlOunces(double flOunces) {
+		if (flOunces < 0) {
+			throw new IllegalArgumentException("flOunces must be a positive number");
+		}
 		this.flOunces = flOunces;
 	}
 

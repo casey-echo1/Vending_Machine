@@ -16,10 +16,16 @@ public class VendingMachine {
 	}
 
 	public void addProduct(String code, Slot<? extends Product> slot) {
+		if(code == null || code.isEmpty() || slot == null) {
+			throw new IllegalArgumentException("Code/slot cannot be empty or null");
+		}
 		slots.put(code, slot);
 	}
 
 	public void dispenseProduct(String code) {
+		if(code == null || code.isEmpty()) {
+			throw new IllegalArgumentException("Code cannot be empty or null");
+		}
 		if (slots.containsKey(code)) {
 			if (this.slots.get(code).getQuantity() > 0) {
 				Slot<? extends Product> slot = this.slots.get(code);
