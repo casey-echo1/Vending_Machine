@@ -35,13 +35,6 @@ public class VendRunner {
 		} catch (Exception e) {
 			System.out.println(e.getMessage());
 		}
-		//}
-
-		// Snacks, Beverages, slot
-
-//addProduct(String code, Slot<? extends Product> slot)
-
-
 
 	}
 }
