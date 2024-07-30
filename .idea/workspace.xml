@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11a0e64c-5572-45df-9323-b2aa0c4af1a7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/EmptyClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/VendRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/VendRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/VendingMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/VendingMachine.java" afterDir="false" />
     </list>
     <list id="9c1ca6ab-f31d-40d8-ac33-1afedff290dc" name="Changes by rames" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -86,6 +89,7 @@
       <workItem from="1722007369551" duration="5807000" />
       <workItem from="1722092185439" duration="176000" />
       <workItem from="1722177107398" duration="483000" />
+      <workItem from="1722355178434" duration="4635000" />
     </task>
     <servers />
   </component>
