@@ -9,17 +9,28 @@ public class VendRunner {
 
 
 		try {
-			Snack snack1 = new Snack("Snickers", 2.00, true);
+			VendingMachine v1 = new VendingMachine();
+			v1.loadProductsFromCSV("products.csv");
 
-			Slot<Snack> slot1 = new Slot<Snack>(snack1, 3);
+			v1.displayProducts();
+			v1.dispenseProduct("B3");
+			v1.dispenseProduct("B3");
+			v1.dispenseProduct("B3");
+			v1.dispenseProduct("B3");
 
 
-			VendingMachine vendingMachine = new VendingMachine();
-			vendingMachine.addProduct("F1", slot1);
-			vendingMachine.dispenseProduct("F1");
-			vendingMachine.dispenseProduct("F1");
-			vendingMachine.dispenseProduct("F1");
-			vendingMachine.dispenseProduct("F1");
+//			Snack snack1 = new Snack("Snickers", 2.00, true);
+//
+//
+//			Slot<Snack> slot1 = new Slot<Snack>(snack1, 3);
+//
+//
+//			VendingMachine vendingMachine = new VendingMachine();
+//			vendingMachine.addProduct("F1", slot1);
+//			vendingMachine.dispenseProduct("F1");
+//			vendingMachine.dispenseProduct("F1");
+//			vendingMachine.dispenseProduct("F1");
+//			vendingMachine.dispenseProduct("F1");
 
 		} catch (IOException e) {
 			System.out.println(e.getMessage());

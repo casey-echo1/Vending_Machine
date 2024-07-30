@@ -10,6 +10,9 @@ public class Beverage extends Product {
 		}
 		this.flOunces = flOunces;
 	}
+	public Beverage(String name, double price) {
+		super(name, price);
+	}
 
 	public double getFlOunces() {
 		return flOunces;

@@ -1,57 +1,33 @@
-Receipt 2024-07-30T12:17:04.807523
-Product Name: Snickers
-Product Price: 2.0Receipt 2024-07-30T12:36:21.307901
-
-Product Name: Snickers
-Product Price: 2.0Receipt 2024-07-30T12:36:21.323117
-
-Product Name: Snickers
-Product Price: 2.0Receipt 2024-07-30T12:36:21.323390
-
-Product Name: Snickers
-Product Price: 2.0Receipt 2024-07-30T12:36:55.567115
-
-Product Name: Snickers
-Product Price: 2.0Receipt 2024-07-30T12:36:55.582820
-
-Product Name: Snickers
-Product Price: 2.0Receipt 2024-07-30T12:36:55.583088
-
-Product Name: Snickers
-Product Price: 2.0Receipt 2024-07-30T12:38:06.404757
-
-Product Name: Snickers
-Product Price: 2.0Receipt 2024-07-30T12:38:06.419002
-
-Product Name: Snickers
-Product Price: 2.0Receipt 2024-07-30T12:38:06.419290
-
-Product Name: Snickers
-Product Price: 2.0Receipt 2024-07-30T12:39:04.640779
-
-Product Name: Snickers
-Product Price: 2.0Receipt 2024-07-30T12:39:04.655051
-
-Product Name: Snickers
-Product Price: 2.0Receipt 2024-07-30T12:39:04.655356
-
-Product Name: Snickers
-Product Price: 2.0Receipt 2024-07-30T12:39:45.738970
-
-Product Name: Snickers
-Product Price: 2.0Receipt 2024-07-30T12:39:45.754709
-
-Product Name: Snickers
-Product Price: 2.0Receipt 2024-07-30T12:39:45.755082
-
-Product Name: Snickers
-Product Price: 2.0Receipt 2024-07-30T12:40:02.696985
-
-Product Name: Snickers
-Product Price: 2.0Receipt 2024-07-30T12:40:02.711289
-
-Product Name: Snickers
-Product Price: 2.0Receipt 2024-07-30T12:40:02.711559
-
+Receipt 2024-07-30T12:54:10.394322
 Product Name: Snickers
 Product Price: 2.0
+Receipt 2024-07-30T12:54:10.411170
+Product Name: Snickers
+Product Price: 2.0
+Receipt 2024-07-30T12:54:10.411475
+Product Name: Snickers
+Product Price: 2.0
+Receipt 2024-07-30T12:54:37.012760
+Product Name: Snickers
+Product Price: 2.0
+
+Receipt 2024-07-30T12:54:37.035121
+Product Name: Snickers
+Product Price: 2.0
+
+Receipt 2024-07-30T12:54:37.035554
+Product Name: Snickers
+Product Price: 2.0
+
+Receipt 2024-07-30T14:13:55.717315
+Product Name: Coca Cola
+Product Price: 1.75
+
+Receipt 2024-07-30T14:14:56.974354
+Product Name: Coca Cola
+Product Price: 1.75
+
+Receipt 2024-07-30T14:27:28.752095
+Product Name: Coca Cola
+Product Price: 1.75
+

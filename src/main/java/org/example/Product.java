@@ -17,6 +17,9 @@ public class Product {
 			this.price = price;
 		}
 	}
+	public Product(String code, String name, double price, int quantity) {
+
+	}
 	public String getName() {
 		return name;
 	}

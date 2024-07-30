@@ -5,12 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11a0e64c-5572-45df-9323-b2aa0c4af1a7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/EmptyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notification_Coca Cola.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/products.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notification_Snickers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/notification_Snickers.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/receipt.txt" beforeDir="false" afterPath="$PROJECT_DIR$/receipt.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/VendRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/VendRunner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/VendingMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/VendingMachine.java" afterDir="false" />
     </list>
+    <list id="4dcb863a-fd74-4010-bf04-51ea91d8d9c6" name="Changes by kdisr" comment="" />
     <list id="9c1ca6ab-f31d-40d8-ac33-1afedff290dc" name="Changes by rames" comment="" />
+    <list id="c8528cc1-2aef-4b5c-9541-f18a9c25fda0" name="Changes by sidra" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Beverage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Beverage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Snack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Snack.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,7 +98,7 @@
       <workItem from="1722007369551" duration="5807000" />
       <workItem from="1722092185439" duration="176000" />
       <workItem from="1722177107398" duration="483000" />
-      <workItem from="1722355178434" duration="4635000" />
+      <workItem from="1722355178434" duration="11266000" />
     </task>
     <servers />
   </component>

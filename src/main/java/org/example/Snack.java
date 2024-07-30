@@ -7,6 +7,9 @@ public class Snack extends Product {
 		super(name, price);
 		this.isVegan = isVegan;
 	}
+	public Snack(String name, double price) {
+		super(name, price);
+	}
 
 	public boolean isVegan() {
 		return isVegan;
